@@ -1,0 +1,22 @@
+{
+  "name": "hello-io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"testing \""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/activeio/hello-io.git"
+  },
+  "keywords": [
+    "io"
+  ],
+  "author": "Pradeep Suthar <pradeexsu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/activeio/hello-io/issues"
+  },
+  "homepage": "https://github.com/activeio/hello-io#readme"
+}
